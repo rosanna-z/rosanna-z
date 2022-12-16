@@ -7,5 +7,5 @@
 
 - 😄 Pronouns: She/her
 - 💬 I am a recent graduate of Lighthouse Labs Web Development program
-- 🌱 Languages I’m currently developing: JavaScript, Ruby, HTML, CSS
+- 🌱 Languages I’m currently learning: JavaScript, Ruby, HTML, CSS
 - 📫 You can reach me at rosannazhang@hotmail.com or on LinkedIn
